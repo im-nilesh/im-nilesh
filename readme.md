@@ -5,14 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/im-nilesh/im-nilesh.git](https://github.com/im-nilesh/im-nilesh.git)
 
-- 💬 Ask me about **Flutter, Python and Java**
+- 💬 Ask me about **Flutter, Python and MERN**
 
 - 📫 How to reach me **nileshdadab@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nilesh-dada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilesh-dada" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nilesh_d" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nilesh_d" height="30" width="40" /></a>
 <a href="https://discord.gg/._neel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="._neel" height="30" width="40" /></a>
 </p>
 
