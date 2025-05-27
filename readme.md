@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-nilesh&label=Profile%20views&color=0e75b6&style=flat" alt="im-nilesh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-nilesh" alt="im-nilesh" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/im-nilesh/im-nilesh.git](https://github.com/im-nilesh/im-nilesh.git)
 
 - 💬 Ask me about **Flutter, Python and Java**
